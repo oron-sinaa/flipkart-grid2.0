@@ -1,0 +1,49 @@
+compass/magnetomemter HMC5883L - 250/- (20gm)
+Barometer MS5611 = 1300/-
+IR sensor x2 (sharp) - 600x2 = 1200/- (42gm each)
+motors 2300kv x6 - 750x6 = 4500/- (115gm each)
+6" propeller pairs (CW+CCW) x 3 = 900/-
+1500 mAh LiPO battery Orane - 1200/- (120gm)
+15A ESC x6 = 500x6 = 3000/- (40gm each)
+carbon fibre drone printing = 4000/- (200gm includes claw as well)
+Pixy2 Camera = 8000/- (20gm)
+Master microcontroller = 500/- (negligible weight)
+10kg servo motor = 500/- (50gm)
+flight controller = Already have this one (costs 5k)
+Receiver and Transmitter = Already have this one (costs 4k for good one, 12k for best one)
+wifi tx for camera = 2000/- (ESP826)
+reflective balls for motion capture training x5
+
+
+A total cost of around 34-35k will be fairely suitable for the Task.
+
+
+
+---------------------------------------------------------------------------------------------
+
+
+Time scenario:
+
+Drone build time = 1-2 days 
+Drone motion AI training and RHP training = 3-4 days
+PID tuning for IR correction = 3 days
+Gate detection training = 7 days
+PID tuning for gate detection and obstacle avoiding = 5 days
+Autonomous mission trainig and logging = 4 days
+GCS and GUI creation = 3 days
+
+We need a total of 25-28 days for full completion of the product, once we get a hands on for all the modules and parts for it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

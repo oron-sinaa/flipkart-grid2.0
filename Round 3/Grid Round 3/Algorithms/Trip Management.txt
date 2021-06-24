@@ -1,0 +1,27 @@
+After successful take off of the drone, we go through the following steps for trip management:
+
+
+*Step.1 
+
+Gathering data from the AI-Cam
+
+
+*Step.2
+
+Correction Algorithm
+
+
+*Step.3
+
+Find centre(s) of the corresponding gate(s)
+
+
+*Step.4
+
+Alignment Algorithm
+Centre the drone through PID
+
+
+*Step.5
+
+IR PID loop to avoid collision while passing through gates

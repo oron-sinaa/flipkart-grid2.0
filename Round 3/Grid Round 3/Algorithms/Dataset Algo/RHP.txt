@@ -1,0 +1,19 @@
+Image of MC 1st: Pins used
+
+Reference: rx/tx connects to sbus, gives all data to rx/tx
+
+rx/tx controlled by microcontroller; controller has the algorithm
+
+
+
+
+LVc - Current Length of Vector 
+
+K - Depends on body inertia; determined by experimentaion
+
+
+
+
+
+Vx1 ; Vx2 -> approching zero
+
